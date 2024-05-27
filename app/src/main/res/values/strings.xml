@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ContextMenuApplication</string>
+    <string name="save_image">Save Image</string>
+    <string name="copy_image">Copy Image</string>
+    <string name="copy_image_path">Copy Image Path</string>
+    <string name="save_as">Save As</string>
+    <string name="download_image">Download Image</string>
+
+    <string-array name="foodItems">
+        <item name="VadaPav">Vadapav</item>
+        <item name="Samosa">Samosa</item>
+        <item name="PaniPuri">PaniPuri</item>
+        <item name="IdliSambhar">Idli Sambhar</item>
+        <item name="Pizza">Pizza</item>
+    </string-array>
+
+</resources>
